@@ -15,6 +15,8 @@ My (evolving) collection of resources on TinyML and Embedded AI.
 * [HarvardX: MLOps for Scaling TinyML](https://www.edx.org/learn/tinyml/harvard-university-mlops-for-scaling-tinyml)
 * [Introduction to Embedded Deep Learning @ CMU](https://z4ziad.github.io/embed-dl-s23/EmbeddedDL_S23/)
 * [On-Device Machine Learning @ CMU](https://cmu-odml.github.io/)
+* [Hardware for Machine Learning @ Berkeley](https://inst.eecs.berkeley.edu/~ee290-2/sp24/)
+* [Machine learning on Embedded Systems @ Stanford](https://github.com/ee292d/labs/tree/main?tab=readme-ov-file)
 
 ## Websites
 * [Han Lab @ MIT](https://hanlab.mit.edu/)
